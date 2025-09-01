@@ -45,6 +45,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d6295dfdd72c8f45949f9b135215d21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: NewAssembly::SceneSwitcher
+<<<<<<< HEAD
+=======
+  mAnimator: {fileID: 0}
+>>>>>>> b6dffe6613b22fa4633b50a115c4a2b40490e4d2
   Document: {fileID: 1726318918827665600}
 --- !u!114 &1726318918827665600
 MonoBehaviour:
@@ -61,7 +65,11 @@ MonoBehaviour:
   m_PanelSettings: {fileID: 11400000, guid: 83ae013aaae97f548b72ff3da13e3135, type: 2}
   m_ParentUI: {fileID: 0}
   sourceAsset: {fileID: 9197481963319205126, guid: 602a41f096dd6fa428aaa55da6a22411, type: 3}
+<<<<<<< HEAD
   m_SortingOrder: 1
+=======
+  m_SortingOrder: 0
+>>>>>>> b6dffe6613b22fa4633b50a115c4a2b40490e4d2
   m_Position: 0
   m_WorldSpaceSizeMode: 1
   m_WorldSpaceWidth: 1920

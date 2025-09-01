@@ -12,7 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 19101, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: SceneSwitcherPanelSettings
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.UIElements.PanelSettings
+<<<<<<< HEAD
   themeUss: {fileID: -4733365628477956816, guid: 70b8dfa68410c254784be55aec80ec3e, type: 3}
+=======
+  themeUss: {fileID: -4733365628477956816, guid: 440278d2bdb52a64b807194b6455a584, type: 3}
+>>>>>>> b6dffe6613b22fa4633b50a115c4a2b40490e4d2
   m_DisableNoThemeWarning: 0
   m_TargetTexture: {fileID: 0}
   m_RenderMode: 0
