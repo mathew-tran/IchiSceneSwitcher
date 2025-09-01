@@ -1,0 +1,17 @@
+{
+  "name": "com.ichi.ichisceneswitcher",
+  "version": "1.0.0",
+  "displayname": "Ichi Scene Switcher",
+  "description": "A scene switcher plugin with transitions",
+  "unity": "6000.2",
+  "keywords": [
+    "plugin",
+    "game",
+    "sceneloader"
+  ],
+  "author": {
+    "name": "Mathew Tran",
+    "email": "mathew.tran.dev@gmail.com"
+  },
+  "displayName": "Ichi Scene Switcher"
+}
