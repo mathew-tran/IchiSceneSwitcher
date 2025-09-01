@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5777102547602748947}
   - component: {fileID: 3634322569697013756}
+  - component: {fileID: 1726318918827665600}
   m_Layer: 0
   m_Name: SceneSwitch
   m_TagString: Untagged
@@ -44,3 +45,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d6295dfdd72c8f45949f9b135215d21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: NewAssembly::SceneSwitcher
+  mAnimator: {fileID: 0}
+  Document: {fileID: 1726318918827665600}
+--- !u!114 &1726318918827665600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5493358124581262755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 19102, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.UIElements.UIDocument
+  m_PanelSettings: {fileID: 11400000, guid: 83ae013aaae97f548b72ff3da13e3135, type: 2}
+  m_ParentUI: {fileID: 0}
+  sourceAsset: {fileID: 9197481963319205126, guid: 602a41f096dd6fa428aaa55da6a22411, type: 3}
+  m_SortingOrder: 0
+  m_Position: 0
+  m_WorldSpaceSizeMode: 1
+  m_WorldSpaceWidth: 1920
+  m_WorldSpaceHeight: 1080
+  m_PivotReferenceSize: 0
+  m_Pivot: 0
+  m_WorldSpaceCollider: {fileID: 0}
